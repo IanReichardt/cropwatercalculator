@@ -1,0 +1,11 @@
+{ "type": "FeatureCollection",
+    "features": [
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [-79.18, -1.95]},
+        "properties": {
+          "name": "Ameli",
+          "altitude": 470
+          }
+        }
+       ]
+     }
